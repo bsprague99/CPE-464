@@ -1,0 +1,7 @@
+Brenden Sprague, Lab section: WED 12-3 pm
+baspragu
+
+all code was provided except lab3.c. Students filled in server and cient base
+code. Students abstracted away the send and recv functions to make interfacing
+easier, as well as added while loops to keep server and client open for 
+continuous chatting.
