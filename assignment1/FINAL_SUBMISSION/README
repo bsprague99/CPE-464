@@ -1,0 +1,11 @@
+Brenden Sprague, LAB SECTION: noon, 3PM)
+
+/* notes to self */
+
+This program prints ETHER, ARP, IP, UDP, TCP, and IMCP header
+information out of packets supplied by a .pcap file as used in
+wireshark. Check trace.h to see how to run on mac OS vs Linux.
+
+All pcap files returned 0 diffs,
+
+Thank you and happy grading!

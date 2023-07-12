@@ -1,0 +1,6 @@
+Brenden Sprague CPE 464-01 ( I think im in the noon to 3?)
+
+Fixed the 2048 message len. I was failing that test because
+I wasnt converting between host and network order correctly.
+
+Friday extra credit
